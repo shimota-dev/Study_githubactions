@@ -1,2 +1,2 @@
 # Study_githubactions
-1
+2
